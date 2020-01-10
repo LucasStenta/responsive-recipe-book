@@ -1,3 +1,14 @@
 html {
   font-family: "Program OT", sans-serif;
 }
+
+h1 {
+
+}
+
+.fixed-text {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  color: #fff;
+}
