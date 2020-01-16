@@ -12,3 +12,11 @@ h1 {
   left: 25%;
   color: #fff;
 }
+
+a {
+  text-decoration: none;
+}
+
+.black {
+  color: black;
+}
