@@ -1,9 +1,9 @@
-html {
-  font-family: "Program OT", sans-serif;
+html{
+  font-family: "Kepler Std ", serif;
 }
 
-h1 {
-
+.sans {
+  font-family: "Program OT", sans-serif;
 }
 
 .fixed-text {
@@ -19,4 +19,8 @@ a {
 
 .black {
   color: black;
+}
+
+.cards {
+  background-color: red;
 }
